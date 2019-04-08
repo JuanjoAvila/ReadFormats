@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Types>
+  <Type id ="Txt">
+    <class>Infrastructure.Repository.Repositories.RepositoryTxt</class>
+  </Type>
+  <Type id ="Json">
+    <class>Infrastructure.Repository.Repositories.RepositoryJson</class>
+  </Type>
+  <Type id ="Xml">
+    <class>Infrastructure.Repository.Repositories.RepositoryXml</class>
+  </Type>
+</Types>

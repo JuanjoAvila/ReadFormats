@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Types>
+  <Type id ="Txt">
+    <class>VuelingSchool.Common.Library.Utils.FileManagerTxt</class>
+  </Type>
+  <Type id ="Json">
+    <class>VuelingSchool.Common.Library.Utils.FileManagerJson</class>
+  </Type>
+  <Type id ="Xml">
+    <class>VuelingSchool.Common.Library.Utils.FileManagerXml</class>
+  </Type>
+</Types>
