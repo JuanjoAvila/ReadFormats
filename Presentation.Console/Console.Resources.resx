@@ -136,7 +136,7 @@
     <value>  An error has ocurred.</value>
   </data>
   <data name="Exit" xml:space="preserve">
-    <value>    6- Exit the application</value>
+    <value>    7- Exit the application</value>
   </data>
   <data name="FormatFile" xml:space="preserve">
     <value>  Choose in which format you want:</value>
